@@ -1,0 +1,8 @@
+.deps
+.git
+.venv
+__pycache__
+*.pyc
+.pytest_cache
+bookings.db
+data
